@@ -1,4 +1,4 @@
-# Algoritmos de Sincronización
+# Algorítmos de Sincronización
 
 Este proyecto está enfocado en la implementación y análisis de diferentes algoritmos de sincronización de relojes distribuidos. La materia corresponde a **Aplicaciones Distribuidas** (NRC 2546).
 
