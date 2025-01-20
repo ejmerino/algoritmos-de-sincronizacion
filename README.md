@@ -5,7 +5,7 @@ Este proyecto está enfocado en la implementación y análisis de diferentes alg
 ## Integrantes del Grupo
 
 - **Sebastián Arias** 
-- **Cristopher Bazurto**
+- **Christopher Bazurto**
 - **Stephen Drouet**
 - **Josué Merino**
 
